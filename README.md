@@ -5,7 +5,7 @@
 ```bash
 git clone git@github.com:danielroe/critters-test.git
 cd critters-test
-yarn build
+yarn && yarn build
 
 # Test with critters enabled
 # https://httpd.apache.org/docs/2.4/programs/ab.html
