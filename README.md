@@ -1,3 +1,9 @@
+
+# 🚧 Repository update 🚧
+
+This repository has been archived. Please feel free to [contact me directly](https://github.com/danielroe) if you have any questions.
+
+<hr>
 > This is a reproduction to pair with https://github.com/GoogleChromeLabs/critters/issues/78
 
 ## Get started
